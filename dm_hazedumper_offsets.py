@@ -1,5 +1,5 @@
-dwEntityList = 27346680
-dwLocalPlayerController = 27676304
+dwEntityList = 27350984
+dwLocalPlayerController = 27680624
 dwLocalPlayerPawn = 25599368
 dwViewAngles = 27830288
 
