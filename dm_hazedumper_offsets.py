@@ -1,7 +1,7 @@
-dwEntityList = 27486720
-dwLocalPlayerController = 27820160
-dwLocalPlayerPawn = 25734944
-dwViewAngles = 27970160
+dwEntityList = 27490864
+dwLocalPlayerController = 27824320
+dwLocalPlayerPawn = 25739056
+dwViewAngles = 27974304
 m_bIsScoped = 9192
 m_iHealth = 836
 m_iFOVStart = 532
